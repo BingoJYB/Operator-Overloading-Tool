@@ -1179,7 +1179,8 @@ int main() {
     y = log((exp(sin(x1)+x2)-cos(x3)/tan(x1))*abs(x2));
     system("xdot tmp.dot");
 
-/*    dco::a1s::global_tape.debug_print();
+/*  
+    dco::a1s::global_tape.debug_print();
     std::cout << "y = " << y._value_ << std::endl;
 
     double *adjvector = new double[1000]();
