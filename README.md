@@ -6,4 +6,4 @@ This is a Qt project which overloads the operators for Automatic Differentiation
     
 After the overloading, the result can be viewed by an interactive viewer `xdot` like
 
-![alt text](https://github.com/BingoJYB/Operator-Overloading-Tool/blob/master/Screenshot%20from%202018-10-05%2000-18-38.png)
+![alt text](https://github.com/BingoJYB/Operator-Overloading-Tool/blob/master/Example%20Image.png)
